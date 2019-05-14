@@ -1,0 +1,31 @@
+{
+  "name": "dmpgen",
+  "version": "1.0.0",
+  "description": "MySQL Huge Dump Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arshadkazmi42/dmpgen.git"
+  },
+  "keywords": [
+    "mysql",
+    "mysql-dump",
+    "million",
+    "rows",
+    "database",
+    "scalable",
+    "test"
+  ],
+  "author": "Arshad Kazmi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arshadkazmi42/dmpgen/issues"
+  },
+  "homepage": "https://github.com/arshadkazmi42/dmpgen#readme",
+  "dependencies": {
+    "@arshadkazmi42/my-no-sql": "^1.0.1"
+  }
+}

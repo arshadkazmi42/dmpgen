@@ -1,0 +1,10 @@
+{
+  "db": {
+    "host": "localhost",
+    "user": "root",
+    "password": "password",
+    "database": "scale"
+  },
+  "tableName": "properties",
+  "limit": 1000000
+}
