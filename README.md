@@ -12,9 +12,7 @@ Node script to generate huge mysql dump. It generates a table name properties an
   - `bathrooms`
   - `bedrooms`
 - To start the script, run the below command
-```
-node index.js
-```
+`node index.js`
 
 ## Contributing
 
